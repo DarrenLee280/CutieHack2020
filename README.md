@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------
 This is the Sanitation Station!!! 
 
-#instructions
+# instructions
 Move the joystick to start the timer.
 
 Press the joystick to dispense soap.
